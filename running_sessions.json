@@ -1,0 +1,26 @@
+{
+    "next_id": 5,
+    "sessions": [
+        {
+            "file_name": "sessions_201028730274.session",
+            "start_time": "2025-10-06T22:12:09.611614+03:00",
+            "temporary": false,
+            "user_id": 8105488192,
+            "id": 1
+        },
+        {
+            "file_name": "sessions_9647776603053.session",
+            "start_time": "2025-10-06T22:37:52.204772+03:00",
+            "temporary": false,
+            "user_id": 8105488192,
+            "id": 3
+        },
+        {
+            "file_name": "sessions_9647729961498.session",
+            "start_time": "2025-10-06T23:29:17.147264+03:00",
+            "temporary": false,
+            "user_id": 8105488192,
+            "id": 4
+        }
+    ]
+}
